@@ -1,0 +1,79 @@
+body {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.container {
+    display: flex;
+    margin: 1rem;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    
+
+}
+
+.container-card {
+    margin: 1.2rem;
+    border: 1px solid #E2E8F0;
+    border-radius: 10px;
+    max-width: 350px;
+}
+
+.container-card img{
+    width: 350px;
+    height: 200px;
+    max-height: 250px;
+}
+
+.container-card h3 {
+    margin: 0;
+    padding-top: 8px;
+    padding-left: 15px;
+    color: #525252;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.container-card h2 {
+    margin: 0;
+    color: #171717;
+    font-weight: 600;
+    padding-top: 8px;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.container-card p {
+    margin: 0;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 20px;
+    text-align: justify;
+    
+}
+
+.container-card a {
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    text-decoration: none;
+    color: #2563EB;
+    font-size: 18px;
+    
+    
+
+}
+
+
+
+
+
+
+
+
